@@ -1,4 +1,4 @@
-# Next Level Week 1
+# Semana omnistack 11
 
 Esse projeto é resultado da semana omnistack 11 da equipe RocketSeat. Nele foram aplicadas as tecnologias NodeJs, Reactjs, React Native e Sqlite3 (através do query builder [knex]) para construção de uma aplicação chamada **Be The Hero**, que tem objetivo de dar as Ongs uma maneira de compartilhar à população, ocorrências que precisem de auxílio financeiro, para que qualquer pessoa disposta a ajudar com alguma valor possa entrar em contato.
 
